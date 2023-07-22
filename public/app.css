@@ -1,0 +1,15 @@
+body {
+    background-color: white;
+    color: #222222;
+    max-width: 600px;
+    margin: auto;
+}
+
+p {
+  line-height: 1.7;
+}
+
+article + article {
+  padding-block: 3em;
+  border-top: 2px solid #cfcfcf;
+}
